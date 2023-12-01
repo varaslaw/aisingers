@@ -3,8 +3,6 @@ ffprobe.exe
 
 runtime
 torchcrepe
-datasets/
-logs/
 
 assets/rmvpe/rmvpe.pt
 assets/rmvpe/rmvpe.onnx
